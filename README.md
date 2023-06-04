@@ -5,17 +5,17 @@
 
 ## _ABOUT ME_
 
-- 🌱 I’m currently learning **_Python, SQL, PowerBi, Machine Learnring. 
+- 🌱 I’m currently learning **_Python, SQL, PowerBi, Machine Learnring._** 
 
-- 🔭 I’m currently working as **_Data Scientist Intern 
+- 🔭 I’m currently working as **_Data Scientist Intern._** 
 
-- 🏫 I am Pursing **_Ekeeda Data Science and Analysis Courese. 
+- 🏫 I am Pursing **_Ekeeda Data Science and Analysis Courese._**
 
-- 💞️ I’m looking to collaborate on **_Data Science-related Projects. 
+- 💞️ I’m looking to collaborate on **_Data Science-related Projects._** 
 
-- 💬 Talk to me about _Python, Machine Learning, SQL, Freelancing Opportunities.
+- 💬 Talk to me about _Python, Machine Learning, SQL, Freelancing Opportunities._
 
-- 😄 I'm _Tenacious, Self-motivated, Focused & Proactive
+- 😄 I'm _Tenacious, Self-motivated, Focused & Proactive_
 
 ## _🛠️ LANGUAGES AND TOOLS_
 
