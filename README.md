@@ -1,7 +1,7 @@
 ## Hey! Nice to see you.
 
 <h2 align="center">👋 Hi, I’m @AdiyaTyagi</h2>
-<h2 align="center"> Aspiring Data Scientist and Analyst__ </h2>
+<h2 align="center"> Aspiring Data Scientist and Analyst </h2>
 
 ## _ABOUT ME_
 
