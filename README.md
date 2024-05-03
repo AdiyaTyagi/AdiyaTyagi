@@ -15,7 +15,7 @@
 
 - 💬 Talk to me about _Python, Machine Learning, SQL, Freelancing Opportunities._
 
-- 😄 I'm _Tenacious, Self-motivated, Focused & Proactive_
+- 😄 I'm _Tenacious, Self-motivated & Focused_
 
 ## _🛠️ LANGUAGES AND TOOLS_
 
