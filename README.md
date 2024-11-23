@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **_Python, SQL, PowerBi, Machine Learnring._** 
 
-- 🔭 I’m currently working as **_Data Scientist Intern._** 
+- 🔭 I’m currently looking forward to work as **_Data Analyst._** 
 
-- 🏫 I am Pursing **_Ekeeda Data Science and Analysis Courese._**
+- 🏫 I am Pursing **_Data Analyst Course._**
 
 - 💞️ I’m looking to collaborate on **_Data Science-related Projects._** 
 
