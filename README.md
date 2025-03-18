@@ -39,8 +39,8 @@
 <br/>
 
 ## _STREAK STATS_
-<p align = 'center'>
-    <img src='https://github-readme-streak-stats.herokuapp.com?user=AdiyaTyagi&theme=dark&hide_border=true'>
+<p align='center'>
+    <img src='https://streak-stats.demolab.com?user=AdiyaTyagi&theme=dark&hide_border=true'>
 </p>
 
 ## **CONNECT WITH ME**:
