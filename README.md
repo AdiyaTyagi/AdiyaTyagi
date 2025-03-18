@@ -40,8 +40,7 @@
 
 ## _STREAK STATS_
 <p align='center'>
-    <a href="https://git.io/streak-stats">
-    <img src='https://streak-stats.demolab.com?user=AdiyaTyagi&theme=react&hide_border=false'></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user="AdiyaTyag" alt="GitHub Streak" /></a>
 </p>
 
 ## **CONNECT WITH ME**:
